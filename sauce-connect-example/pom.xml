@@ -46,7 +46,7 @@
                 <version>2.1.18</version>
                 <configuration>
                     <sauceUsername>cb_cloudbees-sa</sauceUsername>
-                    <sauceAccessKey>0ce882ef-06c4-4439-8b50-09027e4dd6d7</sauceAccessKey>
+                    <sauceAccessKey></sauceAccessKey>
                     <!--<options>-i testing</options>-->
                 </configuration>
                 <executions>
